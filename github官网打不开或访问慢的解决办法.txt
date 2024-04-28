@@ -1,0 +1,52 @@
+github官网打不开或访问慢的解决办法
+github官网打不开或访问慢的解决办法
+
+ WebCsDn_TDCode  ·  2023-11-09 17:13:26 发布
+对国内程序员而言，github官网经常面临打不开或访问慢的问题，今天教你一招非常简单且好用的小技巧，轻松访问github官网。
+
+1、github官网打不开的原因
+首选我们说下github官网打不开的原因到底是什么。细心的同学会发现，github偶尔可以打开，偶尔打不开，能不能打开似乎全靠运气，其实这都是因为你访问github官网时是直接访问域名即github.com，那么中间有个域名通过DNS解析的过程，将域名解析为对应的ip地址，其实主要时间都是花在了DNS解析上，导致了github有时候能打开，有时候打不开，有时候访问很慢。
+
+2、github官网打不开的解决办法
+简单的方法就是我们可以直接绕过DNS解析，进行本地解析即可快速访问github官网。那具体怎么做？只需如下三步即可：
+
+1）获取github官网ip
+
+我们首先要获取github官网的ip地址，方法就是打开cmd，然后
+
+ping github.com
+
+
+
+这里发现github的地址是20.205.243.166
+
+2）配置hosts文件，绕过DNS解析
+
+接下来，我们只需要打开电脑C:\Windows\System32\drivers\etc下的hosts文件编辑（需要管理员权限，右键，管理员权限打开），新增如下一行配置：
+
+20.205.243.166 github.com
+
+3）刷新DNS缓存
+
+WIN+R打开cmd，输入如下指令刷新DNS缓存 
+
+ipconfig /flushdns
+
+
+
+ 3、github官网打不开或访问慢备选方案1
+如果还是不能解决，就到https://ipaddress.com/分别查询github.com和github.global.ssl.fastly.net的ip值，我查询出来ip分别为配置到了hosts文件中的：
+
+140.82.113.4 github.com
+
+199.232.69.194 github.global.ssl.fastly.net
+
+然后再次刷新dns缓存，再试试访问github，应该就可以了。 
+
+4、github官网打不开或访问慢备选方案2
+如果以上两种方案仍然无法解决该问题，那就只能使用第3种方案，在gitee上有个开源项目名为 dev-sidecar，为开发者打辅助的边车工具，通过本地代理的方式将https请求代理到一些国内的加速通道上，通过修改sni实现github 直连加速 ，还支持一些clone加速、头像加速、npm加速等等功能，具体的操作直接到项目的readme参考即可。
+
+总结
+github可能有很多涉及到的ip对应的子域名，很多时间就花在了dns解析映射到ip的过程上，有兴趣可以将你需要的都整理过来然后配置上就可以。
+
+以上就是github官网打不开或访问慢的解决办法，相信你已经学会了，可以快乐地在github里玩耍了，如果还不行，那就干脆别用了，剩的麻烦，推荐用gitee国内的，一劳永逸。

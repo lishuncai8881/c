@@ -1,0 +1,27 @@
+一、
+1、GitHub打不开的终极解决方案（超简单）
+https://blog.csdn.net/m0_65061804/article/details/134053816?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPaidSort-1-134053816-blog-131390484.235%5Ev43%5Epc_blog_bottom_relevance_base8&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPaidSort-1-134053816-blog-131390484.235%5Ev43%5Epc_blog_bottom_relevance_base8&utm_relevant_index=1
+2、访问raw.githubusercontent.com失败问题处理
+https://blog.csdn.net/Naisu_kun/article/details/118957940
+3、这个可以通过下面网站查询知道域名真实的IP地址，
+https://www.ipaddress.com/what-is-my-ip-address/
+
+
+二、
+github网页代理加速接口地址
+https://gh-proxy.com/
+
+三、github网页汉化网址
+https://www.bilibili.com/video/BV1iF411k7cu/?spm_id_from=333.788.recommend_more_video.0&vd_source=6a0df964ea02b5beafbd69f58bb48c3d
+
+
+四、github桌面版下载
+https://desktop.github.com/
+
+五、github桌面版汉化
+https://github.com/robotze/GithubDesktopZhTool/blob/main/GithubDesktop%E6%B1%89%E5%8C%96%E5%B7%A5%E5%85%B7.7z
+下载GithubDesktopZhTool.exe，打开GithubDesktopZhTool.exe，点击汉化即可。
+视频教程：https://www.bilibili.com/video/BV1Gr4y177aE
+
+六、GitHub 加速神器非VPN开源免费 开发必备 FastGithub / Watt Toolkit
+https://github.com/dotnetcore/FastGithub
