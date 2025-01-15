@@ -1,3 +1,4 @@
+
 //接口内容来自网络数位大佬，如有冒犯，请联系删除，感谢各位大佬无私奉献。
 // 配置地址 --> clan://localhost/TVBox/顺财.txt
 //本接口仅限测试之用，请勿乱传、售卖，感谢理解。
@@ -7,7 +8,7 @@
 
     {
       "key": "可可",
-      "name": " 🎬顺推荐影视",
+      "name": " 🎬可可影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_Keke",
@@ -98,7 +99,7 @@
         {"key": "厂长影院",
             "name": "🎬厂长┃影院",
             "type": 3,
-            "jar": https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 0,
@@ -188,7 +189,7 @@
       "name": "🧿可可┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -230,7 +231,7 @@
       "name": "🎬蚂蚁影库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBrPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
