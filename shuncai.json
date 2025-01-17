@@ -4,7 +4,7 @@
 {
 
   "sites": [
-{"key": "03影院https://www.03yy.live","name": "🎬顺推荐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/lishuncai8881/c/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
+{"key": "03影院https://www.03yy.live","name": "🎬顺推荐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
   {
       "key": " 网飞猫 ",
       "name": "😾网飞猫",
