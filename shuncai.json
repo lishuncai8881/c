@@ -841,7 +841,7 @@
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"17","name":"🔞🈲分割线——————","type":0,"api":""},
 {"key":"14","name":"🔞分割线——————","type":0,"api":""},
-{"key": "精品采集","name": "🔞精品X资源 ","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 2,"searchable": 1,"quickSearch": 1，"filterable": 1},
+{"key": "精品采集","name": "🔞精品X资源 ","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable":1},
 {
      "key": "乐草",
      "name": "🔞乐草", 
@@ -852,8 +852,8 @@
      "quickSearch": 0,
      "filterable": 1,                                                                       
    "ext": {
-	   "直接播放":"1"，
-	   "编码": "UTF-8"，
+	   "直接播放":"1",
+	   "编码": "UTF-8",
 	   "请求头": "User-Agent$MOBILE_UA", 
 	   "主页url":"https://lecao2.top/index.php/label/new.html",
 	   "分类url":"https://lecao2.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
