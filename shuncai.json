@@ -30,15 +30,15 @@
 {"key":"现代","name":"📡现代┃App","type":3,"api":"csp_Xdai","quickSearch": 0,"jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090","ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"},
 {"key":"天天","name":"📡天天┃App","type":3,"api":"csp_TTian","jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key":"热播","name":"📡热播┃App","type":3,"api":"csp_TTian","jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
-{"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"简介":"顺子🎬+&&</span>","主页url":"https://www.laowang.co/","播放数组":"module-blocklist scroll-box scroll-box-y&&</div>","搜索url":"https://laowang.co/s.html?wd={wd}","搜索数组":"module-item-pic\">&&/span></div>","搜索标题": "title=\"&&\"","搜索图片": "data-src=\"&&\"","搜索副标题": "+item-caption\">&&</span>","搜索链接": "href=\"&&\""，"分类url":"https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#邵氏电影$https://www.laowang.co/vs/1---%E9%82%B5%E6%B0%8F--------.html#4K电影$https://www.laowang.co/vs/1---4K--------.html","倒序":"0"}},
- {"key":"飞快TV","name":"🎬飞快TV","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://feikuai.tv/","分类url":"https://feikuai.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html"，"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$32#今日更新$https://feikuai.tv/label/new.html#热播推荐$https://feikuai.tv/label/hot.html","类型":"动作片$6#喜剧片$7#爱情片$9#科幻片$8#恐怖片$11#剧情片$12#战争片$10#其它片$30||内地剧$13#港台剧$14#短剧$32#日韩剧$15#欧美剧$16#其它$31||内地$20#日韩$26#港台$21#欧美$22#其它$24||内地$25#港台$26#韩日$27#欧美$28#海外$29||💕短剧$45||无||无"}}， 
+{"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"简介":"顺子🎬+&&</span>","主页url":"https://www.laowang.co/","播放数组":"module-blocklist scroll-box scroll-box-y&&</div>","搜索url":"https://laowang.co/s.html?wd={wd}","搜索数组":"module-item-pic\">&&/span></div>","搜索标题": "title=\"&&\"","搜索图片": "data-src=\"&&\"","搜索副标题": "+item-caption\">&&</span>","搜索链接": "href=\"&&\"","分类url":"https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#邵氏电影$https://www.laowang.co/vs/1---%E9%82%B5%E6%B0%8F--------.html#4K电影$https://www.laowang.co/vs/1---4K--------.html","倒序":"0"}},
+ {"key":"飞快TV","name":"🎬飞快TV","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://feikuai.tv/","分类url":"https://feikuai.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$32#今日更新$https://feikuai.tv/label/new.html#热播推荐$https://feikuai.tv/label/hot.html","类型":"动作片$6#喜剧片$7#爱情片$9#科幻片$8#恐怖片$11#剧情片$12#战争片$10#其它片$30||内地剧$13#港台剧$14#短剧$32#日韩剧$15#欧美剧$16#其它$31||内地$20#日韩$26#港台$21#欧美$22#其它$24||内地$25#港台$26#韩日$27#欧美$28#海外$29||💕短剧$45||无||无"}}, 
  {"key":"皮皮蛋","name":"🎬皮皮蛋","type":3,"api":"csp_XBPQ",    "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://cddys1.me/","分类url":"https://cddys1.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38"}}, 
 
 
 {"key": "黑夜影视", "name": "🎬黑夜影视","type": 3, "searchable": 1,"quickSearch": 0,"filterable": 1,"changeable": 1,"api": "csp_XBPQ", "ext":{"搜索url":"https://darkvod.com/tag/?wd={wd}","线路标题": "[不包含:海外看资源#高清云播放器]","分类url": "https://darkvod.com/video/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类": "短剧$shuangwenduanju#电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#伦理片$lunlipian"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
-{"key":"xBPQ_网飞猫","name":"🎬网飞猫","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","ext":{"数组":"<a&&</a>","图片": "https+://61.147.93.252:15002/vod1/+data-original=\"/vod1/&&\"","标题":"ＫкyＳ01.coм</div>&&</div>","副标题":"提供</span>&&</span>","导演":"导演:</div>&&</div>","演员":"演员:</div>&&</div>","简介":"class=\"detail-desc\">&&</div>","线路数组":"swiper-slide source-swiper-slide&&</div>[排序:超清>4K>蓝光]","线路标题":"</span>&&</span>"，"搜索url":"https://www.ncat22.com/search?wd=pc&k={wd}","分类url":"https://www.ncat22.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
+{"key":"xBPQ_网飞猫","name":"🎬网飞猫","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","ext":{"数组":"<a&&</a>","图片": "https+://61.147.93.252:15002/vod1/+data-original=\"/vod1/&&\"","标题":"ＫкyＳ01.coм</div>&&</div>","副标题":"提供</span>&&</span>","导演":"导演:</div>&&</div>","演员":"演员:</div>&&</div>","简介":"class=\"detail-desc\">&&</div>","线路数组":"swiper-slide source-swiper-slide&&</div>[排序:超清>4K>蓝光]","线路标题":"</span>&&</span>","搜索url":"https://www.ncat22.com/search?wd=pc&k={wd}","分类url":"https://www.ncat22.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
 {"key": " 网飞猫 ","name": "😾网飞猫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/json/网飞猫.json"},
-    { "key": "鬼片之家",  "name": "☠鬼片之家", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext": {"搜索url":"https://www.guipian360.com/vodsearch/{wd}-------------.html","主页url":"https://www.guipian360.com/","分类url":"https://www.guipian360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"鬼片大全$1#恐怖片$3#动漫卡通$4#电视剧$2#排行榜$https://www.guipian360.com/label/hot.html","类型":"大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||无||无||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||无"}，"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"}, 
+    { "key": "鬼片之家",  "name": "☠鬼片之家", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext": {"搜索url":"https://www.guipian360.com/vodsearch/{wd}-------------.html","主页url":"https://www.guipian360.com/","分类url":"https://www.guipian360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"鬼片大全$1#恐怖片$3#动漫卡通$4#电视剧$2#排行榜$https://www.guipian360.com/label/hot.html","类型":"大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||无||无||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||无"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"}, 
 
 {
       "key": "js_星芽短剧",
@@ -859,30 +859,7 @@
 	   "分类url":"https://lecao2.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 	   "分类":"国产自拍$20#网红主播$21#探花系列$23#传媒出品$25#日本无码$26#日本有码$27#中文字幕$28#欧美精品$29#三级伦理$30#人妻熟女$31#口爆颜射$32#SM调教$33#制服诱惑$34#多人群交$35#女同性爱$36#萝莉少女$38#成人动漫$39"}
    },
-	  {
-            "key": "我爱AV",
-            "name": "🏆我爱AV社区",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-                "副标题": "span class=\"pic-text text-right\">&&</p",
-                "线路数组": "<li&&</li>",
-                "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
-                "播放标题": ">&&</a",
-                "搜索模式": "1",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "/vodtype/&&.html",
-                "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
-            }
-        },
+
         {
             "key": "花影视",
             "name": "🏆花影视",
@@ -968,7 +945,7 @@
             "name": "🏆纤纤H版",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 0,
@@ -1007,7 +984,7 @@
             "name": "🏆小幺女",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
