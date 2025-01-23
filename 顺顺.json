@@ -4,7 +4,7 @@
 {
 
   "sites": [
-{"key": "03影院https://www.03yy.live","name": "🎬顺推荐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/json/03影院.json","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
+{"key": "03影院https://www.03yy.live","name": "🎬顺推荐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.kkgithub.com/lishuncai8881/c/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
   {
       "key": " 网飞猫 ",
       "name": "😾网飞猫",
@@ -38,27 +38,27 @@
 {"key": "黑夜影视", "name": "🎬黑夜影视","type": 3, "searchable": 1,"quickSearch": 0,"filterable": 1,"changeable": 1,"api": "csp_XBPQ", "ext":{"搜索url":"https://darkvod.com/tag/?wd={wd}","线路标题": "[不包含:海外看资源#高清云播放器]","分类url": "https://darkvod.com/video/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类": "短剧$shuangwenduanju#电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#伦理片$lunlipian"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
 {"key":"xBPQ_网飞猫","name":"🎬网飞猫","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","ext":{"数组":"<a&&</a>","图片": "https+://61.147.93.252:15002/vod1/+data-original=\"/vod1/&&\"","标题":"ＫкyＳ01.coм</div>&&</div>","副标题":"提供</span>&&</span>","导演":"导演:</div>&&</div>","演员":"演员:</div>&&</div>","简介":"class=\"detail-desc\">&&</div>","线路数组":"swiper-slide source-swiper-slide&&</div>[排序:超清>4K>蓝光]","线路标题":"</span>&&</span>","搜索url":"https://www.ncat22.com/search?wd=pc&k={wd}","分类url":"https://www.ncat22.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
 {"key": " 网飞猫 ","name": "😾网飞猫","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/json/网飞猫.json"},
-    { "key": "鬼片之家",  "name": "☠鬼片之家", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext": {"搜索url":"https://www.guipian360.com/vodsearch/{wd}-------------.html","主页url":"https://www.guipian360.com/","分类url":"https://www.guipian360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"鬼片大全$1#恐怖片$3#动漫卡通$4#电视剧$2#排行榜$https://www.guipian360.com/label/hot.html","类型":"大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||无||无||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||无"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"}, 
+{ "key": "鬼片之家",  "name": "☠鬼片之家", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext": {"搜索url":"https://www.guipian360.com/vodsearch/{wd}-------------.html","主页url":"https://www.guipian360.com/","分类url":"https://www.guipian360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"鬼片大全$1#恐怖片$3#动漫卡通$4#电视剧$2#排行榜$https://www.guipian360.com/label/hot.html","类型":"大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||无||无||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22||无"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"}, 
 
 {
       "key": "js_星芽短剧",
       "name": "🎦星芽短剧",
       "type": 3,
-      "api":"http://ttkx.cc:55/lib/drpy_libs/drpy2.min.js",
+      "api":"https://raw.kkgithub.com/lishuncai8881/c/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/js/星芽短剧.js"
+      "ext": "https://raw.kkgithub.com/lishuncai8881/c/js/星芽短剧.js"
     },
     {
       "key": "js_蓝莓短剧",
       "name": "🎦蓝莓短剧",
       "type": 3,
-      "api": "http://ttkx.cc:55/lib/drpy_libs/drpy2.min.js",
+      "api": "https://raw.kkgithub.com/lishuncai8881/c/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/js/蓝莓短剧.js"
+      "ext": "https://raw.kkgithub.com/lishuncai8881/c/js/蓝莓短剧.js"
     },
 
 {"key":"csp_XBPQ_云播短剧","name":"💖云播短剧","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索Url":"/vodsearch/{wd}-------------/","主页url":"https://www.yunbo99.com/","分类url":"https://www.yunbo99.com/vodtype/{cateId}-{catePg}/","分类":"短剧$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#欧美片$8#日韩剧$9#国产剧$10#港台剧$11#海外剧$12#动漫$13#综艺$14#记录$15"}},
@@ -74,7 +74,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1, 
-            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar", 
+            "jar": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar", 
             "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://ainidj.com/","播放数组":"<div class=\"sort-item\" id=\"sort-item-1\">&&</div> ",
     "分类url": "https://ainidj.com/vodshwo/{cateId}--{by}---{lang}---{catePg}---.html",
     "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing", 
@@ -177,7 +177,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-      "ext": "http://ztha.top/catjs/JS/js/好趣网.js"
+      "ext": "https://raw.kkgithub.com/lishuncai8881/c/js/好趣网.js"
     },  
        {
       "key": "csp_xBPQ_神马影院(94smsm.cc)",
@@ -196,7 +196,7 @@
                 "name": "🦊妖狐影视",
                 "type": 3,
                 "api": "csp_XBPQ",
-           "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+           "jar": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar",
 "searchable": 1, "quickSearch": 0, "filterable": 1,
                 "ext": {"请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8",
@@ -213,7 +213,7 @@
         {"key": "厂长影院",
             "name": "🎬厂长┃影院",
             "type": 3,
-            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+            "jar": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 0,
@@ -374,7 +374,7 @@
     "name": "🎬几个亿影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+    "jar": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 1,
@@ -402,7 +402,7 @@
  {"key":"csp_XBPQ_八戒影视","name":"🐷八戒影视","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"搜索url":"https://www.heimi365.com/vodsearch/{wd}-------------.html","主页url":"https://www.heimi365.com/","分类url":"https://m.heimi365.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录片$5"}},
 {
             "key": "ptt",
-            "name": "🌈PTT视频-追剧之王",
+            "name": "🌈PTT-追剧之王",
             "type": 3,
             "api":"csp_XBPQ", 
             "jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
@@ -645,29 +645,29 @@
         "name": "┃🖥网络电视┃",
         "type": 3,
         "api": "csp_Live2Vod",
-        "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/Live2Vod.jar",
+        "jar": "https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/jar/Live2Vod.jar",
         "searchable": 1,
         "quickSearch": 0,
         "filterable": 1,
-        "ext":"🌈顺$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑南风$https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+        "ext":"🌈顺其自然$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑南风$https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"},
 {"key": "中医药","name": "🅱️┃中医┃药区","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/中医药.json"},
 {"key": "相声小品","name": "🅱️┃相声┃小品","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/相声小品.json"},
 {"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/哔哩MTV.json"},
 {"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/印度歌舞.json"},
 {"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/哔哩舞蹈.json"},
-{"key":"MV点播","name":"🎬【歌曲万首MV点播】","searchable": 1,"changeable": 1,"quickSearch": 0,"type": 3,"api": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/mv/live2cms.js","ext":"https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/mv/%E4%B8%87%E9%A6%96MV.json"},    
+{"key":"MV点播","name":"🎤【万首MKV点播】","searchable": 1,"changeable": 1,"quickSearch": 0,"type": 3,"api": "https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/MV/live2cms.js","ext":"https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/MV/顺万首MV.json"},    
     {
       "key": "hipy_js_KTV歌厅[听]",
       "name": "🎤KTV歌厅",
       "type": 3,
-      "api": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/lib/js/drpy2.min.js",
+      "api": "https://raw.kkgithub.com/lishuncai8881/c/lib/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/lib/js/KTV%E6%AD%8C%E5%8E%85_%E5%90%AC_.js?inline=false"
+      "ext": "https://raw.kkgithub.com/lishuncai8881/c/lib/js/KTV%E6%AD%8C%E5%8E%85%5B%E5%90%AC%5D.js"
     },
-//{"key": "hipy_js_KTV歌厅[听]","name": "🎤KTV歌厅(drpy_t3)","type": 3,"api": "http://ttkx.cc:55/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "http://ttkx.cc:55/lib/js/KTV歌厅[听].js"},    
+
    {
       "key": "Yinyuetai",
       "name": "🛰音悦台┃音乐┃MV",
@@ -680,14 +680,14 @@
     },
 {
       "key": "hipy_js_爱车MV[听]",
-      "name": "🛰爱车MV[听](drpy_t3)",
+      "name": "🛰爱车MV[听]",
       "type": 3,
-      "api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+      "api": "https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://bitbucket.org/xduo/libs/raw/master/drpy_js/爱车MV[听].js"
+      "ext": "https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/drpy_libs/爱车MV[听].js"
     },
         {
             "key": "4K动漫",
@@ -788,13 +788,7 @@
                 "搜索url": "http://m.dodoge.me/vod/search/{wd}/",
                 "分类": "新番放送$riman#国产东漫$guoman#电影$move#剧集$dianshiju#剧场动画$juchang#番组计划$fanzu",
                 "分类url": "http://m.dodoge.me/vodshow/{cateId}--{by}------{catePg}---{year}/"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
-{
-      "key": "drpy_js_豆瓣",
-      "name": "🍥豆瓣[js]",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
-    },
+
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🍥奇珍异兽[js]",
@@ -841,30 +835,24 @@
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"17","name":"🔞🈲分割线——————","type":0,"api":""},
 {"key":"14","name":"🔞分割线——————","type":0,"api":""},
-        {
-            "key": "我爱AV",
-            "name": "🏆我爱AV社区",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-                "副标题": "span class=\"pic-text text-right\">&&</p",
-                "线路数组": "<li&&</li>",
-                "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
-                "播放标题": ">&&</a",
-                "搜索模式": "1",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "/vodtype/&&.html",
-                "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
-            }
-        },
+{"key": "精品采集","name": "🔞精品X资源 ","type": 1,"api": "http://www.jingpinx.com/api.php/provide/vod/","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable":1},
+{
+     "key": "乐草",
+     "name": "🔞乐草", 
+     "type":3,
+     "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+     "api":"csp_XBPQ",  
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1,                                                                       
+   "ext": {
+	   "直接播放":"1",
+	   "编码": "UTF-8",
+	   "请求头": "User-Agent$MOBILE_UA",
+	   "主页url":"https://lecao2.top/",
+	   "分类url":"https://lecao2.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	   "分类":"国产自拍$20#网红主播$21#探花系列$23#传媒出品$25#日本无码$26#日本有码$27#中文字幕$28#欧美精品$29#三级伦理$30#人妻熟女$31#口爆颜射$32#SM调教$33#制服诱惑$34#多人群交$35#女同性爱$36#萝莉少女$38#成人动漫$39"}
+   },
         {
             "key": "花影视",
             "name": "🏆花影视",
@@ -878,7 +866,7 @@
                 "播放数组": "class=\"item line\">&&</div>",
                 "线路数组": "class=\"item line\">&&</div>",
                 "分类url": "https://www.ajfdvv.com/typegaokk/{cateId}_{catePg}.html[https://www.ajfdvv.com/typegaokk/{cateId}.html]",
-                "分类": "日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12"
+                "分类": "推荐视频$5#日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12#动漫成人$14#主播视频$16#重味3P$13#同性人妖$6#巨乳颜射$7#强奸乱伦$17"
             }
         },
         {
@@ -896,7 +884,7 @@
             },
             "ext": {
                 "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "分类": "日本视频$1#麻豆视频$2",
+                "分类": "日本视频$1#麻豆视频$2#国产视频$3",
                 "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
                 "直接播放": "1"
             }
@@ -950,7 +938,7 @@
             "name": "🏆纤纤H版",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 0,
@@ -989,7 +977,7 @@
             "name": "🏆小幺女",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+            "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -4310,7 +4298,7 @@
 	"cms.qdwght.com"
     ],
   "wallpaper": "https://yydsys.top/bg.php","warningText":"",
-    "spider": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"
+    "spider": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar"
  
      
 }
