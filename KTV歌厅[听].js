@@ -9,7 +9,7 @@ var rule = {
     // host: 'https://vpsdn.leuse.top',
     host: 'https://api.cloudflare.com',
     root: 'https://api.cloudflare.com/client/v4/accounts/1ecc4a947c5a518427141f4a68c86ea1/d1/database/4f1385ab-f952-404a-870a-e4cfef4bd9fd/query',
-    mktvUrl: 'http://em.21dtv.com/songs/',
+    mktvUrl: 'http://em.21dtv.co/songs/',
     url: '/searchmv?table=fyclass&pg=fypage#fyfilter',
     searchUrl: '/searchmv?keywords=**&pg=fypage',
     pic: 'https://api.paugram.com/wallpaper/?source=sina&category=us',
