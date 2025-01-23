@@ -30,8 +30,8 @@
 {"key":"现代","name":"📡现代┃App","type":3,"api":"csp_Xdai","quickSearch": 0,"jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090","ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"},
 {"key":"天天","name":"📡天天┃App","type":3,"api":"csp_TTian","jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key":"热播","name":"📡热播┃App","type":3,"api":"csp_TTian","jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
-{"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"简介":"顺子🎬+&&</span>","主页url":"https://www.laowang.co/","播放数组":"module-blocklist scroll-box scroll-box-y&&</div>","搜索url":"https://laowang.co/s.html?wd={wd}","搜索数组":"module-item-pic\">&&/span></div>","搜索标题": "title=\"&&\"","搜索图片": "data-src=\"&&\"","搜索副标题": "+item-caption\">&&</span>","搜索链接": "href=\"&&\""，"分类url":"https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#邵氏电影$https://www.laowang.co/vs/1---%E9%82%B5%E6%B0%8F--------.html#4K电影$https://www.laowang.co/vs/1---4K--------.html","倒序":"0"}},
- {"key":"飞快TV","name":"🎬飞快TV","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://feikuai.tv/","分类url":"https://feikuai.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html"，"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$32#今日更新$https://feikuai.tv/label/new.html#热播推荐$https://feikuai.tv/label/hot.html","类型":"动作片$6#喜剧片$7#爱情片$9#科幻片$8#恐怖片$11#剧情片$12#战争片$10#其它片$30||内地剧$13#港台剧$14#短剧$32#日韩剧$15#欧美剧$16#其它$31||内地$20#日韩$26#港台$21#欧美$22#其它$24||内地$25#港台$26#韩日$27#欧美$28#海外$29||💕短剧$45||无||无"}}， 
+{"key":"csp_XBPQ_老王影视","name":"🎬老王影视","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"简介":"顺子🎬+&&</span>","主页url":"https://www.laowang.co/","播放数组":"module-blocklist scroll-box scroll-box-y&&</div>","搜索url":"https://laowang.co/s.html?wd={wd}","搜索数组":"module-item-pic\">&&/span></div>","搜索标题": "title=\"&&\"","搜索图片": "data-src=\"&&\"","搜索副标题": "+item-caption\">&&</span>","搜索链接": "href=\"&&\"","分类url":"https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#邵氏电影$https://www.laowang.co/vs/1---%E9%82%B5%E6%B0%8F--------.html#4K电影$https://www.laowang.co/vs/1---4K--------.html","倒序":"0"}},
+ {"key":"飞快TV","name":"🎬飞快TV","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://feikuai.tv/","分类url":"https://feikuai.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$32#今日更新$https://feikuai.tv/label/new.html#热播推荐$https://feikuai.tv/label/hot.html","类型":"动作片$6#喜剧片$7#爱情片$9#科幻片$8#恐怖片$11#剧情片$12#战争片$10#其它片$30||内地剧$13#港台剧$14#短剧$32#日韩剧$15#欧美剧$16#其它$31||内地$20#日韩$26#港台$21#欧美$22#其它$24||内地$25#港台$26#韩日$27#欧美$28#海外$29||💕短剧$45||无||无"}}, 
  {"key":"皮皮蛋","name":"🎬皮皮蛋","type":3,"api":"csp_XBPQ",    "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://cddys1.me/","分类url":"https://cddys1.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38"}}, 
 
 
@@ -196,7 +196,7 @@
                 "name": "🦊妖狐影视",
                 "type": 3,
                 "api": "csp_XBPQ",
-           "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+           "jar": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar",
 "searchable": 1, "quickSearch": 0, "filterable": 1,
                 "ext": {"请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8",
@@ -374,7 +374,7 @@
     "name": "🎬几个亿影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+    "jar": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 1,
@@ -402,7 +402,7 @@
  {"key":"csp_XBPQ_八戒影视","name":"🐷八戒影视","type":3,"api":"csp_XBPQ","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"搜索url":"https://www.heimi365.com/vodsearch/{wd}-------------.html","主页url":"https://www.heimi365.com/","分类url":"https://m.heimi365.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录片$5"}},
 {
             "key": "ptt",
-            "name": "🌈PTT视频-追剧之王",
+            "name": "🌈PTT-追剧之王",
             "type": 3,
             "api":"csp_XBPQ", 
             "jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
@@ -649,7 +649,7 @@
         "searchable": 1,
         "quickSearch": 0,
         "filterable": 1,
-        "ext":"🌈顺$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑南风$https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+        "ext":"🌈顺其自然$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑南风$https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"},
 {"key": "中医药","name": "🅱️┃中医┃药区","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/中医药.json"},
 {"key": "相声小品","name": "🅱️┃相声┃小品","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/相声小品.json"},
 {"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/哔哩MTV.json"},
@@ -680,14 +680,14 @@
     },
 {
       "key": "hipy_js_爱车MV[听]",
-      "name": "🛰爱车MV[听",
+      "name": "🛰爱车MV[听]",
       "type": 3,
-      "api": "https://raw.kkgithub.com/lishuncai8881/c/drpy_libs/drpy2.min.js",
+      "api": "https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://raw.kkgithub.com/lishuncai8881/c/drpy_libs/爱车MV[听].js"
+      "ext": "https://wget.la/https://raw.githubusercontent.com/lishuncai8881/c/drpy_libs/爱车MV[听].js"
     },
         {
             "key": "4K动漫",
@@ -788,6 +788,7 @@
                 "搜索url": "http://m.dodoge.me/vod/search/{wd}/",
                 "分类": "新番放送$riman#国产东漫$guoman#电影$move#剧集$dianshiju#剧场动画$juchang#番组计划$fanzu",
                 "分类url": "http://m.dodoge.me/vodshow/{cateId}--{by}------{catePg}---{year}/"},"jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"},
+
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🍥奇珍异兽[js]",
@@ -4297,7 +4298,7 @@
 	"cms.qdwght.com"
     ],
   "wallpaper": "https://yydsys.top/bg.php","warningText":"",
-    "spider": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar"
+    "spider": "https://raw.kkgithub.com/lishuncai8881/c/jar/xbpq.jar"
  
      
 }
