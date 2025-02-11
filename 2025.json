@@ -687,7 +687,7 @@
       "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
       "api": "csp_Yinyuetai",
-      "jar":"https://github.moeyy.xyz/https://github.com/lishuncai8881/c/main/jar/yt9.jar",
+      "jar":"https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/jar/yt9.jar",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 0
@@ -696,12 +696,12 @@
       "key": "hipy_js_爱车MV[听]",
       "name": "🛰爱车MV[听]",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://github.com/lishuncai8881/main/drpy_libs/drpy2.min.js",
+      "api": "https://raw.bgithub.xyz/lishuncai8881/c/refs/heads/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://github.com/lishuncai8881/drpy_libs/爱车MV[听].js"
+      "ext": "https://raw.bgithub.xyz/lishuncai8881/c/refs/heads/drpy_libs/%E7%88%B1%E8%BD%A6MV%5B%E5%90%AC%5D.js"
     },
         {
             "key": "4K动漫",
