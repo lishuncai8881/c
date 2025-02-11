@@ -205,6 +205,8 @@ https://www.freetv.top/migu/923287211.m3u8?migutoken=3038330d5b0c936f66655139d7a
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="教育", CETV4
 https://www.freetv.top/migu/923287339.m3u8?migutoken=7a2822aa17f7c35f0cd0f5c37988d7ab3a4d34291f48cfb941ebe9cf117b4900f15e56f7219da78155df7377c00e4bf64ed241bbe8e2de69a8bcc4fcede1abe540eaeaf95a84d587b8964d5326
 
+
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="香蕉" tvg-name="香蕉" tvg-logo="https://epg.v1.mk/logo/香蕉.png" group-title="🔞直播",香蕉
 http://s.mrw.so/94E7W
 #EXTINF:-1,tvg-id="惊艳" tvg-name="惊艳" tvg-logo="https://epg.v1.mk/logo/惊艳.png" group-title="🔞直播",惊艳
