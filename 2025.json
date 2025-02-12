@@ -435,18 +435,10 @@
            }
          },
 
-    {
-      "key": "csp_TianTian",
-      "name": "🦉天天",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1, "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;975457C21B8081448B06A69BADF7610B"
-    },
+
    {
       "key": "蚂蚁秒播",
-      "name": "🔥蚂蚁影视┃秒播",
+      "name": "🔥蚂蚁影视",
       "type": 1,
       "searchable": 1,
       "quickSearch": 0,
@@ -663,7 +655,8 @@
         "searchable": 1,
         "quickSearch": 0,
         "filterable": 1,
-        "ext":"👑央视直播$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/顺.m3u#👑开心直播源$http://rihou.cc:55/lib/kx2024.txt#👑顺$https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/main/shun.m3u#👑肥羊$https://www.freetv.top/migu.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑梁旭$https://git.acwing.com/tv1/tv2/-/raw/main/15329222283母盘.txt#🌈顺其自然$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑南风$https://github.moeyy.xyz/https://raw.bgithub.xyz/yoursmile66/TVBox/main/live.txt#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+        "ext":"👑央视直播$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/顺.m3u#👑开心直播源$http://rihou.cc:55/lib/kx2024.txt#👑顺$https://github.moeyy.xyz/https://raw.bgithub.xyz/lishuncai8881/c/main/shun.m3u#👑肥羊$https://www.freetv.top/migu.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑梁旭$https://git.acwing.com/tv1/tv2/-/raw/main/15329222283母盘.txt#🌈顺其自然$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/2025zb.txt#🌈顺财$https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/直播#💖宝TV$https://ygbh.site/bh.txt#👑杂$https://sourl.cn/cDxMy5#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt
+#💞晴天$https://git.acwing.com/yuyu10248/pg/-/raw/main/fh.txt&&&http://3650000.xyz/api/360.php?cid=6"},
 {"key": "中医药","name": "🅱️┃中医┃药区","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/中医药.json"},
 {"key": "相声小品","name": "🅱️┃相声┃小品","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/相声小品.json"},
 {"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/fm.jar","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/lishuncai8881/tvbox/-/raw/main/Bilibili/哔哩MTV.json"},
