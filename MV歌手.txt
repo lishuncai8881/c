@@ -1,5 +1,27 @@
 
 // JSON 解析错误：JSON语法结构存在错误，无法解析，以下为您输出接口原文。
+💥雨虹💥,#genre#
+
+辜负你的情,https://git.acwing.com/lsc123/l/-/raw/main/辜负你的情.mkv
+相思难剪,https://git.acwing.com/lsc123/l/-/raw/main/相思难剪.mkv
+焚情,https://git.acwing.com/lsc123/l/-/raw/main/焚情.mkv
+铁血丹心-缺女声,https://git.acwing.com/lsc123/l/-/raw/main/罗文_甄妮-铁血丹心_缺女声__粤语_合唱歌曲.mkv
+人生路,http://chuangshicdn.data.mvbox.cn/music/sp/20/02/12/20021216174407655734.mp4
+谢谢你 就这么陪我走,http://chuangshicdn.data.mvbox.cn/music/sp/24/05/21/24052120162555085156.mp4
+夜色 DJ终极版,http://chuangshicdn.data.mvbox.cn/music/sp/24/01/02/24010216221881947905.mp4
+落雨的秋,http://chuangshicdn.data.mvbox.cn/music/sp/23/09/15/23091515492172659172.mp4
+求佛渡我忘了他,http://chuangshicdn.data.mvbox.cn/music/sp/23/08/22/23082222152346232388.mp4
+情毒,http://chuangshicdn.data.mvbox.cn/music/sp/23/07/07/23070720491425401467.mp4
+你是我拒绝别人的理由,http://chuangshicdn.data.mvbox.cn/music/sp/23/07/07/23070716341036023705.mp4
+终身美丽,http://chuangshicdn.data.mvbox.cn/music/sp/23/03/04/23030409043249349057.mp4
+你永远不懂我(伤心),http://chuangshicdn.data.mvbox.cn/music/sp/22/01/18/22011820070102607634.mp4
+铁心丹心,http://chuangshicdn.data.mvbox.cn/music/sp/21/12/05/21120516070562553374.mp4
+片片相思赋于谁,http://chuangshicdn.data.mvbox.cn/music/sp/21/11/16/21111611192639114456.mp4
+红唇,http://chuangshicdn.data.mvbox.cn/music/sp/20/12/15/20121516591809892840.mp4
+一亿个伤心,http://chuangshicdn.data.mvbox.cn/music/sp/20/11/16/20111617451196133815.mp4
+你是我拒绝别人的理由DJ版,http://chuangshicdn.data.mvbox.cn/music/sp/20/02/13/20021315200721946230.mp4
+恋人心,http://chuangshicdn.data.mvbox.cn/music/sp/19/11/18/19111815212580797938.mp4
+
 
 ﻿阿杜,#genre#
 阿爸的勒勒车,http://em.21dtv.com/songs/60163603.mkv
@@ -3680,122 +3702,6 @@ when you cry,http://em.21dtv.com/songs/60060945.mkv
 自由自在,http://em.21dtv.com/songs/60095276.mkv
 自由自在[演],http://em.21dtv.com/songs/60093999.mkv
 
-风凰传奇,#genre#
-爱的狂怒,http://em.21dtv.com/songs/60007288.mkv
-爱的天下,http://em.21dtv.com/songs/60117573.mkv
-爱琴海,http://em.21dtv.com/songs/60008076.mkv
-拜新年,http://em.21dtv.com/songs/60061040.mkv
-策马奔腾,http://em.21dtv.com/songs/60061093.mkv
-策马扬鞭,http://em.21dtv.com/songs/60110013.mkv
-次仁拉索,http://em.21dtv.com/songs/60169420.mkv
-草原凤凰(演唱会),http://em.21dtv.com/songs/60012075.mkv
-等爱的玫瑰,http://em.21dtv.com/songs/60014851.mkv
-等爱的玫瑰(演唱会),http://em.21dtv.com/songs/60014850.mkv
-等爱的玫瑰之慢摇,http://em.21dtv.com/songs/60089667.mkv
-待嫁的新娘,http://em.21dtv.com/songs/60103099.mkv
-大漠情人,http://em.21dtv.com/songs/60014072.mkv
-动起来,http://em.21dtv.com/songs/60117571.mkv
-大声唱,http://em.21dtv.com/songs/60061132.mkv
-繁花,http://em.21dtv.com/songs/60103920.mkv
-凤凰展翅,http://em.21dtv.com/songs/60113284.mkv
-飞天,http://em.21dtv.com/songs/60082896.mkv
-歌唱二小放牛郎,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
-关东女,http://em.21dtv.com/songs/60110012.mkv
-感到幸福你就拍拍手,http://em.21dtv.com/songs/60101943.mkv
-GDXFNJPPS,http://em.21dtv.com/songs/60109173.mkv
-古老的乡巴拉,http://em.21dtv.com/songs/60018986.mkv
-桂林美,http://em.21dtv.com/songs/60019419.mkv
-光芒,http://em.21dtv.com/songs/60162058.mkv
-高山槐花开,http://em.21dtv.com/songs/60018214.mkv
-嗨_Mrs_Leta,http://em.21dtv.com/songs/60087374.mkv
-嗨!mrsleta(演唱会),http://em.21dtv.com/songs/60020607.mkv
-合家欢,http://em.21dtv.com/songs/60119283.mkv
-欢乐夜,http://em.21dtv.com/songs/60132229.mkv
-荷塘月色,http://em.21dtv.com/songs/60020472.mkv
-荷塘月色(演唱会),http://em.21dtv.com/songs/60020471.mkv
-华夏传说,http://em.21dtv.com/songs/60154411.mkv
-胡杨新娘,http://em.21dtv.com/songs/60021219.mkv
-红颜先生,http://em.21dtv.com/songs/60120348.mkv
-花烛夜,http://em.21dtv.com/songs/60137347.mkv
-将进酒,http://em.21dtv.com/songs/60153950.mkv
-今生的缘,http://em.21dtv.com/songs/60023776.mkv
-吉祥年,http://em.21dtv.com/songs/60083101.mkv
-吉祥如意,http://em.21dtv.com/songs/60169428.mkv
-康定情歌,http://em.21dtv.com/songs/60025165.mkv
-康定情缘,http://em.21dtv.com/songs/60025171.mkv
-科尔沁哥哥,http://em.21dtv.com/songs/60087375.mkv
-可可西里,http://em.21dtv.com/songs/60025303.mkv
-快乐无极限,http://em.21dtv.com/songs/60103918.mkv
-开门大吉,http://em.21dtv.com/songs/60148410.mkv
-路灯下的小姑娘,http://em.21dtv.com/songs/60097889.mkv
-郎的诱惑,http://em.21dtv.com/songs/60026179.mkv
-溜溜的情歌,http://em.21dtv.com/songs/60027499.mkv
-绿旋风,http://em.21dtv.com/songs/60061385.mkv
-蒙古人,http://em.21dtv.com/songs/60061422.mkv
-瞄着你就爱,http://em.21dtv.com/songs/60134919.mkv
-年轻主义,http://em.21dtv.com/songs/60121420.mkv
-陪你一辈子,http://em.21dtv.com/songs/60101944.mkv
-泼水节,http://em.21dtv.com/songs/60033653.mkv
-情歌天下唱,http://em.21dtv.com/songs/60079894.mkv
-秋画,http://em.21dtv.com/songs/60061525.mkv
-奇迹世界,http://em.21dtv.com/songs/60033950.mkv
-全是爱,http://em.21dtv.com/songs/60035918.mkv
-前世今生,http://em.21dtv.com/songs/60106628.mkv
-青云直上,http://em.21dtv.com/songs/60134921.mkv
-让爱领舞,http://em.21dtv.com/songs/60036030.mkv
-让世界听我的,http://em.21dtv.com/songs/60137348.mkv
-沙漠之恋,http://em.21dtv.com/songs/60037464.mkv
-神奇的松原,http://em.21dtv.com/songs/60038482.mkv
-深深爱,http://em.21dtv.com/songs/60038347.mkv
-奢香夫人,http://em.21dtv.com/songs/60038186.mkv
-水云间,http://em.21dtv.com/songs/60103101.mkv
-天边的故乡,http://em.21dtv.com/songs/60105627.mkv
-天籁传奇,http://em.21dtv.com/songs/60041895.mkv
-天蓝蓝,http://em.21dtv.com/songs/60041899.mkv
-天蓝蓝(演唱会),http://em.21dtv.com/songs/60041898.mkv
-兔侠功夫操,http://em.21dtv.com/songs/60107517.mkv
-我不是公主,http://em.21dtv.com/songs/60044822.mkv
-我从草原来,http://em.21dtv.com/songs/60044958.mkv
-舞动草原,http://em.21dtv.com/songs/60090676.mkv
-我的家在哪里,http://em.21dtv.com/songs/60078208.mkv
-我和草原有个约定,http://em.21dtv.com/songs/60045515.mkv
-when you cry,http://em.21dtv.com/songs/60060945.mkv
-我们的歌谣,http://em.21dtv.com/songs/60061691.mkv
-忘情森巴舞,http://em.21dtv.com/songs/60117572.mkv
-温柔姑娘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
-我是一只小小鸟,http://em.21dtv.com/songs/60046207.mkv
-心驰神往,http://em.21dtv.com/songs/60050176.mkv
-星光,http://em.21dtv.com/songs/60061781.mkv
-乡关何处是,http://em.21dtv.com/songs/60137346.mkv
-新疆玫瑰,http://em.21dtv.com/songs/60050853.mkv
-香香,http://em.21dtv.com/songs/60048947.mkv
-行香子,http://em.21dtv.com/songs/60154594.mkv
-相约北京,http://em.21dtv.com/songs/60048879.mkv
-雄鹰展翅,http://em.21dtv.com/songs/60110870.mkv
-心中的雪莲花,http://em.21dtv.com/songs/60080963.mkv
-一代天骄,http://em.21dtv.com/songs/60052838.mkv
-远方的远方还是远方,http://em.21dtv.com/songs/60130106.mkv
-一个人跳舞,http://em.21dtv.com/songs/60117570.mkv
-御龙归字谣,http://em.21dtv.com/songs/60066549.mkv
-一路惊喜,http://em.21dtv.com/songs/60108329.mkv
-月亮之上,http://em.21dtv.com/songs/60056447.mkv
-一起红火火,http://em.21dtv.com/songs/60151675.mkv
-友情岁月,http://em.21dtv.com/songs/60148903.mkv
-中国我爱你,http://em.21dtv.com/songs/60058921.mkv
-中国味道,http://em.21dtv.com/songs/60148409.mkv
-中国喜事,http://em.21dtv.com/songs/60109174.mkv
-最好的时代,http://em.21dtv.com/songs/60103100.mkv
-最后的讨伐,http://em.21dtv.com/songs/60060154.mkv
-指间沙,http://em.21dtv.com/songs/60103919.mkv
-醉美天下,http://em.21dtv.com/songs/60060505.mkv
-走天涯,http://em.21dtv.com/songs/60144611.mkv
-只为遇见,http://em.21dtv.com/songs/60122512.mkv
-最炫民族风,http://em.21dtv.com/songs/60060444.mkv
-最炫民族风(演唱会),http://em.21dtv.com/songs/60060443.mkv
-自由飞翔,http://em.21dtv.com/songs/60059772.mkv
-自由自在,http://em.21dtv.com/songs/60095276.mkv
-自由自在[演],http://em.21dtv.com/songs/60093999.mkv
-
 费玉清,#genre#
 3345,http://em.21dtv.com/songs/60118919.mkv
 爱的供养,http://em.21dtv.com/songs/60149501.mkv
@@ -5077,22 +4983,6 @@ flower show,http://em.21dtv.com/songs/60001707.mkv
 摇摆摆伴,http://em.21dtv.com/songs/60088522.mkv
 有颗炸弹送给你(演唱会),http://em.21dtv.com/songs/60055156.mkv
 
-🛰雨虹,#genre#
-人生路,http://chuangshicdn.data.mvbox.cn/music/sp/20/02/12/20021216174407655734.mp4
-谢谢你 就这么陪我走,http://chuangshicdn.data.mvbox.cn/music/sp/24/05/21/24052120162555085156.mp4
-夜色 DJ终极版,http://chuangshicdn.data.mvbox.cn/music/sp/24/01/02/24010216221881947905.mp4
-落雨的秋,http://chuangshicdn.data.mvbox.cn/music/sp/23/09/15/23091515492172659172.mp4
-求佛渡我忘了他,http://chuangshicdn.data.mvbox.cn/music/sp/23/08/22/23082222152346232388.mp4
-情毒,http://chuangshicdn.data.mvbox.cn/music/sp/23/07/07/23070720491425401467.mp4
-你是我拒绝别人的理由,http://chuangshicdn.data.mvbox.cn/music/sp/23/07/07/23070716341036023705.mp4
-终身美丽,http://chuangshicdn.data.mvbox.cn/music/sp/23/03/04/23030409043249349057.mp4
-你永远不懂我(伤心),http://chuangshicdn.data.mvbox.cn/music/sp/22/01/18/22011820070102607634.mp4
-铁心丹心,http://chuangshicdn.data.mvbox.cn/music/sp/21/12/05/21120516070562553374.mp4
-片片相思赋于谁,http://chuangshicdn.data.mvbox.cn/music/sp/21/11/16/21111611192639114456.mp4
-红唇,http://chuangshicdn.data.mvbox.cn/music/sp/20/12/15/20121516591809892840.mp4
-一亿个伤心,http://chuangshicdn.data.mvbox.cn/music/sp/20/11/16/20111617451196133815.mp4
-你是我拒绝别人的理由DJ版,http://chuangshicdn.data.mvbox.cn/music/sp/20/02/13/20021315200721946230.mp4
-恋人心,http://chuangshicdn.data.mvbox.cn/music/sp/19/11/18/19111815212580797938.mp4
 
 韩红,#genre#
 爱的箴言,http://em.21dtv.com/songs/60007457.mkv
