@@ -25,7 +25,7 @@ const VERSION = 'live2cms 20230619';
 const UA = 'Mozilla/5.0'; //默认请求ua
 const __ext = {data_dict:{}};
 const tips = `\n直播转点播js-当前版本${VERSION}`;
-const def_pic = 'https://avatars.githubusercontent.com/u/130474269?v=4';
+const def_pic = 'https://git.acwing.com/uploads/-/system/user/avatar/14380/avatar.png?width=400';
 
 /**
  * 存在数据库配置表里, key字段对应值value,没有就新增,有就更新,调用此方法会清除key对应的内存缓存
