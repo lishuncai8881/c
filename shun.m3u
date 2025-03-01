@@ -219,59 +219,59 @@ http://goo.bkpcp.top/mg/cctv16
 http://goo.bkpcp.top/mg/cctv17
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="东方卫视",东方卫视
 http://goo.bkpcp.top/mg/dfws
-#EXTINF:-1,tvg-id="河北三佳购物频道" tvg-name="河北三佳购物频道" tvg-logo="https://epg.v1.mk/logo/河北三佳购物频道.png" group-title="河北",河北省卫视
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北卫视",河北省卫视
 http://goo.bkpcp.top/mg/hbws
-#EXTINF:-1,tvg-id="陕西logo" tvg-name="陕西logo" tvg-logo="https://epg.v1.mk/logo/陕西logo.png" group-title="陕西",陕西省卫视
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="陕西卫视",陕西省卫视
 http://goo.bkpcp.top/mg/sxws
-#EXTINF:-1,tvg-id="NewTV吉林" tvg-name="NewTV吉林" tvg-logo="https://epg.v1.mk/logo/NewTV吉林.png" group-title="吉林",吉林省卫视
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林卫视",吉林省卫视
 http://goo.bkpcp.top/mg/jlws
-#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏省卫视
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏卫视",江苏省卫视
 http://goo.bkpcp.top/mg/jsws
-#EXTINF:-1,tvg-id="浙江6频道" tvg-name="浙江6频道" tvg-logo="https://epg.v1.mk/logo/浙江6频道.png" group-title="浙江",浙江省卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江卫视",浙江省卫视
 http://goo.bkpcp.top/mg/zjws
-#EXTINF:-1,tvg-id="NewTV安徽" tvg-name="NewTV安徽" tvg-logo="https://epg.v1.mk/logo/NewTV安徽.png" group-title="安徽",安徽省卫视
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽卫视",安徽省卫视
 http://goo.bkpcp.top/mg/ahws
-#EXTINF:-1,tvg-id="NewTV江西" tvg-name="NewTV江西" tvg-logo="https://epg.v1.mk/logo/NewTV江西.png" group-title="江西",江西省卫视
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西卫视",江西省卫视
 http://goo.bkpcp.top/mg/jxws
-#EXTINF:-1,tvg-id="河南4K测试" tvg-name="河南4K测试" tvg-logo="https://epg.v1.mk/logo/河南4K测试.png" group-title="河南",河南省卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南卫视",河南省卫视
 http://goo.bkpcp.top/mg/hnws
-#EXTINF:-1,tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="https://epg.v1.mk/logo/湖北公共.png" group-title="湖北",湖北省卫视
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北卫视",湖北省卫视
 http://goo.bkpcp.top/mg/hbws
-#EXTINF:-1,tvg-id="NewTV广东" tvg-name="NewTV广东" tvg-logo="https://epg.v1.mk/logo/NewTV广东.png" group-title="广东",广东省卫视
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东卫视",广东省卫视
 http://goo.bkpcp.top/mg/gdws
-#EXTINF:-1,tvg-id="NewTV广西" tvg-name="NewTV广西" tvg-logo="https://epg.v1.mk/logo/NewTV广西.png" group-title="广西卫视",广西壮族自治区卫视
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="广西卫视",广西壮族自治区卫视
 http://goo.bkpcp.top/mg/gxws
-#EXTINF:-1,tvg-id="NewTV四川" tvg-name="NewTV四川" tvg-logo="https://epg.v1.mk/logo/NewTV四川.png" group-title="四川",四川省卫视
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川卫视",四川省卫视
 http://goo.bkpcp.top/mg/scws
-#EXTINF:-1,tvg-id="美贵州" tvg-name="美贵州" tvg-logo="https://epg.v1.mk/logo/美贵州.png" group-title="贵州",贵州省卫视
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州卫视",贵州省卫视
 http://goo.bkpcp.top/mg/gzws
-#EXTINF:-1,tvg-id="NewTV云南" tvg-name="NewTV云南" tvg-logo="https://epg.v1.mk/logo/NewTV云南.png" group-title="云南",云南省卫视
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="云南卫视",云南省卫视
 http://goo.bkpcp.top/mg/ynws
-#EXTINF:-1,tvg-id="甘肃公共" tvg-name="甘肃公共" tvg-logo="https://epg.v1.mk/logo/甘肃公共.png" group-title="甘肃",甘肃省卫视
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃卫视",甘肃省卫视
 http://goo.bkpcp.top/mg/gsws
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="青海",青海省卫视
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="青海卫视",青海省卫视
 http://goo.bkpcp.top/mg/qhws
-#EXTINF:-1,tvg-id="宁夏公共" tvg-name="宁夏公共" tvg-logo="https://epg.v1.mk/logo/宁夏公共.png" group-title="宁夏卫视",宁夏回族自治区卫视
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="宁夏卫视",宁夏回族自治区卫视
 http://goo.bkpcp.top/mg/nxws
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京卫视",北京卫视
 http://goo.bkpcp.top/mg/bjws
-#EXTINF:-1,tvg-id="辽宁乡村广播" tvg-name="辽宁乡村广播" tvg-logo="https://epg.v1.mk/logo/辽宁乡村广播.png" group-title="辽宁",辽宁省卫视
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁卫视",辽宁省卫视
 http://goo.bkpcp.top/mg/lnws
-#EXTINF:-1,tvg-id="松视1" tvg-name="松视1" tvg-logo="https://epg.v1.mk/logo/松视1.png" group-title="松视1",松视1
+#EXTINF:-1,tvg-id="松视1" tvg-name="松视1" tvg-logo="https://epg.v1.mk/logo/松视1.png" group-title="🈲松视1",松视1
 http://suo.im/c4FP2
-#EXTINF:-1,tvg-id="松视2" tvg-name="松视2" tvg-logo="https://epg.v1.mk/logo/松视2.png" group-title="松视2",松视2
+#EXTINF:-1,tvg-id="松视2" tvg-name="松视2" tvg-logo="https://epg.v1.mk/logo/松视2.png" group-title="🈲松视2",松视2
 http://mtw.so/6pAjsB
-#EXTINF:-1,tvg-id="松视3" tvg-name="松视3" tvg-logo="https://epg.v1.mk/logo/松视3.png" group-title="松视3",松视3
+#EXTINF:-1,tvg-id="松视3" tvg-name="松视3" tvg-logo="https://epg.v1.mk/logo/松视3.png" group-title="🈲松视3",松视3
 http://suo.im/9wiS2
-#EXTINF:-1,tvg-id="E彩虹" tvg-name="E彩虹" tvg-logo="https://epg.v1.mk/logo/E彩虹.png" group-title="彩虹e",彩虹e
+#EXTINF:-1,tvg-id="E彩虹" tvg-name="E彩虹" tvg-logo="https://epg.v1.mk/logo/E彩虹.png" group-title="🈲彩虹e",彩虹e
 http://mtw.so/5NweOs
-#EXTINF:-1,tvg-id="彩虹K" tvg-name="彩虹K" tvg-logo="https://epg.v1.mk/logo/彩虹K.png" group-title="彩虹k",彩虹k
+#EXTINF:-1,tvg-id="彩虹K" tvg-name="彩虹K" tvg-logo="https://epg.v1.mk/logo/彩虹K.png" group-title="🈲彩虹k",彩虹k
 http://s.mrw.so/7DlBI
-#EXTINF:-1,tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="https://epg.v1.mk/logo/彩虹电影.png" group-title="彩虹电影",彩虹电影
+#EXTINF:-1,tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="https://epg.v1.mk/logo/彩虹电影.png" group-title="🈲彩虹电影",彩虹电影
 http://suo.im/9sOLD
-#EXTINF:-1,tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具" tvg-logo="https://epg.v1.mk/logo/IHOT爱玩具.png" group-title="玩美",玩美
+#EXTINF:-1,tvg-id="潘多拉玩美" tvg-name="潘多拉玩美" tvg-logo="https://epg.v1.mk/logo/潘多拉完美.png" group-title="🈲潘多拉玩美",潘多拉玩美
 http://suo.im/6TuSG
-#EXTINF:-1,tvg-id="惊艳" tvg-name="惊艳" tvg-logo="https://epg.v1.mk/logo/惊艳.png" group-title="惊艳",惊艳
+#EXTINF:-1,tvg-id="惊艳" tvg-name="惊艳" tvg-logo="https://epg.v1.mk/logo/惊艳.png" group-title="🈲惊艳",惊艳
 http://suo.im/8odLv
-#EXTINF:-1,tvg-id="香蕉" tvg-name="香蕉" tvg-logo="https://epg.v1.mk/logo/香蕉.png" group-title="香蕉",香蕉
+#EXTINF:-1,tvg-id="香蕉" tvg-name="香蕉" tvg-logo="https://epg.v1.mk/logo/香蕉.png" group-title="🈲香蕉",香蕉
 http://s.mrw.so/94E7W
