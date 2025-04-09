@@ -21,8 +21,7 @@
 { "key": "热播弹幕", "name": "🤖热播｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3YucmJvdHYuY24=" } },
 { "key": "天天弹幕", "name": "🤖天天｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3R0LnlzZHFqcy5jbg==" } },
 { "key": "浪酷弹幕"， "name": "🤖浪酷｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3YubGt1eXMuY24=" } },
-{
-      "key": "csp_xBPQ_稻田影视",
+{ "key": "csp_xBPQ_稻田影视",
       "name": "♨️稻田影视",
       "type": 3,
       "api": "csp_XBPQ",
