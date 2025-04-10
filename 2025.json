@@ -20,7 +20,7 @@
 {"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar"},
 { "key": "热播弹幕", "name": "🤖热播｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3YucmJvdHYuY24=" } },
 { "key": "天天弹幕", "name": "🤖天天｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3R0LnlzZHFqcy5jbg==" } },
-{ "key": "浪酷弹幕", "name": "🤖浪酷｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt"， "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3YubGt1eXMuY24=" } },
+{ "key": "浪酷弹幕", "name": "🤖浪酷｜弹幕", "type": 3, "api": "csp_TianTian","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "danmu": true, "site": "aHR0cDovL3YubGt1eXMuY24=" } },
 {
       "key": "csp_xBPQ_稻田影视",
       "name": "♨️稻田影视",
@@ -34,7 +34,7 @@
         "分类url": "https://www.yuenjinggong.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
         "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#动画片$donghuapian#邵氏电影$shaoshi#伦理电影$lilun#演唱会$yanchanghui#电影解说$dianyingjieshuo"}, "jar":"https://ghproxy.net/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar"
     },
-{"key":"csp_XBPQ_游子视频","name":"♨️游子视频","type":3,"api":"csp_XBPQ",    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36","图片": "data-original=\"&&\"","播放数组":"<div class=\"module-play-list\">&&</div>","主页url":"https://www.youzisp.tv/","分类url":"https://www.youzisp.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---.html"，"分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#","类型":"动作片$dongzuo#爱情片$aiqing#喜剧片$xiju#科幻片$kehuan#恐慌片$kongbu#剧情片$juqing#战争片$zhanzheng#冒险$maoxian#奇幻$qihuan#悬疑$xuanyi#惊悚$jingsong#歌舞$gewu#犯罪$fanzui#灾难$zainan#同性$tongxing#网络$wangluo||国产剧$guochan#港台剧$gangtai#东南亚$dongnanya#韩日剧$rihan#热门短剧$remenduanju#欧美剧$oumei||国产$guochan#日韩$rihan#欧美$oumei#东南亚$dongnanya||大陆$dalu#动漫剧场$dongmanjuchang||无||无"}},
+{"key":"csp_XBPQ_游子视频","name":"♨️游子视频","type":3,"api":"csp_XBPQ",    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36","图片": "data-original=\"&&\"","播放数组":"<div class=\"module-play-list\">&&</div>","主页url":"https://www.youzisp.tv/","分类url":"https://www.youzisp.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#","类型":"动作片$dongzuo#爱情片$aiqing#喜剧片$xiju#科幻片$kehuan#恐慌片$kongbu#剧情片$juqing#战争片$zhanzheng#冒险$maoxian#奇幻$qihuan#悬疑$xuanyi#惊悚$jingsong#歌舞$gewu#犯罪$fanzui#灾难$zainan#同性$tongxing#网络$wangluo||国产剧$guochan#港台剧$gangtai#东南亚$dongnanya#韩日剧$rihan#热门短剧$remenduanju#欧美剧$oumei||国产$guochan#日韩$rihan#欧美$oumei#东南亚$dongnanya||大陆$dalu#动漫剧场$dongmanjuchang||无||无"}},
 {
             "key": "瓜子影视",
             "name": "💥瓜子｜影视",
@@ -4476,7 +4476,7 @@
 	"cdnjs.hnfenxun.com",
 	"cms.qdwght.com"
     ],
-  "wallpaper": "https://yydsys.top/bg.php","warningText":"",
+  "wallpaper": "https://yydsys.top/bg.php","warningText":"顺财顺风顺水顺财神",
     "spider": "https://ghproxy.net/https://raw.githubusercontent.com/lishuncai8881/c/jar/xbpq.jar"
  
      
