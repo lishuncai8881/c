@@ -19,9 +19,10 @@
     },
 
 {"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar"},
-{ "key": "热播弹幕", "name": "🤖热播｜弹幕", "type": 3, "api": "csp_AppRJ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "url": "http://v.rbotv.cn" } },
-{ "key": "天天弹幕", "name": "🤖天天｜弹幕", "type": 3, "api": "csp_AppRJ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "url": "http://tt.ysdqjs.cn" } },
-{ "key": "浪酷弹幕", "name": "🤖浪酷｜弹幕", "type": 3, "api": "csp_AppRJ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/spider.txt", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": { "url": "http://v.lkuys.cn" } },
+{ "key": "热播影视", "name": "🤖热播｜影视", "type": 3,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
+{ "key": "天天影视", "name": "🤖天天｜影视", "type": 3,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
+{ "key": "浪酷影视", "name": "🤖浪酷｜影视", "type": 3,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
+
 {
       "key": "csp_xBPQ_稻田影视",
       "name": "♨️稻田影视",
