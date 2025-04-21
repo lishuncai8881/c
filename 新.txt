@@ -4,7 +4,7 @@
 
 {
 "wallpaper": "http://maoyingshi.cc/api.php",
-"spider":"./jar/xbpq.jar",
+"spider":"./jar/xyqxbpq.jar",
 
 "sites":[
 {"key":"drpy_T4聚合","name":"㊗️顺财影视🌹","type":3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
