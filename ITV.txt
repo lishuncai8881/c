@@ -1,4 +1,4 @@
-🖥三网央视，#类型#
+🖥三网央视,#genre#
 CCTV1,http://144.0.18.28:8018/hls/1/index.m3u8
 CCTV2,http://144.0.18.28:8018/hls/2/index.m3u8
 CCTV3,http://144.0.18.28:8018/hls/3/index.m3u8#http://113.64.146.6:2024/hls/20/index.m3u8
@@ -182,7 +182,7 @@ CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
  
  
 
-🖥央视全网通，#类型#
+🖥央视全网通,#genre#
 CCTV1,http://ycsj.aguihome.com:4022/rtp/233.50.201.118:5140
 CCTV2,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
 CCTV3,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
@@ -204,7 +204,7 @@ CCTV17,http://ycsj.aguihome.com:4022/rtp/233.50.200.113:5140
 CCTV1,http://www.lizhinas.top:1009/udp/239.252.219.10:5140
 
 
-🖥咪咕央视，#类型
+🖥咪咕央视,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
@@ -223,7 +223,7 @@ CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
-央视备用，#类型#
+央视备用,#genre#
 CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -245,7 +245,7 @@ CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
-🖥地方台频道，#类型#
+🖥地方台频道,#genre#
 浙江❤️钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江❤️新闻频道,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江❤️新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
@@ -411,9 +411,6 @@ CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 福建.福州少儿,https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福建.云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 福建.漳浦电视台,http://220.161.87.62:8090/hls/0/index.m3u8
-福建.乡村振兴,
-福建.莆田1套,
-http://106.53.99.30/dl/ptbtv.php?id=4
 福建.莆田2套,http://106.53.99.30/dl/ptbtv.php?id=5
 福建.莆田仙游,http://106.53.99.30/dl/ptbtv.php?id=6
 浙江.平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
@@ -427,7 +424,7 @@ http://106.53.99.30/dl/ptbtv.php?id=4
 浙江.龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 浙江.龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 浙江.宁波.象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-浙江.衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+浙江. 衢江新闻综合, http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 浙江.绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 浙江.绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 浙江.绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
@@ -564,8 +561,7 @@ http://106.53.99.30/dl/ptbtv.php?id=4
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 邓州新闻,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 
-播放失败请刷新接口,#genre#
-↓↓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=dc6e48&tk=822270345d4c
+
 央卫1线,#genre#
 CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8a160a&tk=822270345d4c
 CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1c85ed&tk=822270345d4c
@@ -660,10 +656,10 @@ CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a03072&tk=822270345d4
 熊猫频道2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d1b688&tk=822270345d4c
 熊猫频道3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=be424c&tk=822270345d4c
 熊猫频道4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8356bc&tk=822270345d4c
-熊猫频道5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5d7ac7&tk=822270345d4c
+熊猫频道5，http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5d7ac7&tk=822270345d4c
 熊猫频道6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f81b8e&tk=822270345d4c
 熊猫频道7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0c39f4&tk=822270345d4c
-熊猫频道8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e6e0fb&tk=822270345d4c
+熊猫频道8，http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e6e0fb&tk=822270345d4c
 熊猫频道9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c2a54e&tk=822270345d4c
 熊猫频道10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=718e7e&tk=822270345d4c
 华语乐坛最强音,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0177f0&tk=822270345d4c
@@ -836,8 +832,8 @@ IPTV魅力时尚,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ef78b6&tk=822270345d
 IPTV都市剧场,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cfe265&tk=822270345d4c
 IPTV少儿动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e94777&tk=822270345d4c
 IPTV收视指南,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d01a55&tk=822270345d4c
-IPTV相声小品,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab7302&tk=822270345d4c
-IPTV相声小品,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1375d4&tk=822270345d4c
+IPTV 相声小品,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab7302&tk=822270345d4c
+IPTV 相声小品,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1375d4&tk=822270345d4c
 IPTV野外,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5c44f5&tk=822270345d4c
 IPTV野外,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=eb0bad&tk=822270345d4c
 PPTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ccfd2c&tk=822270345d4c
@@ -936,7 +932,6 @@ PPTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=98cad6&tk=822270345d4c
 广东经济科教,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9d8b24&tk=822270345d4c
 广东经济科教,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2ae2e8&tk=822270345d4c
 广东现代教育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=fcfc81&tk=822270345d4c
-广州法治
 广州新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=13a7c8&tk=822270345d4c
 广州影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b7065f&tk=822270345d4c
 潮州综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c9797c&tk=822270345d4c
@@ -968,7 +963,6 @@ PPTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=98cad6&tk=822270345d4c
 韶关新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=19b06e&tk=822270345d4c
 深圳宝安第一课,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cb94a4&tk=822270345d4c
 深圳宝安频道,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8e97b1&tk=822270345d4c
-深圳财经生活
 深圳电视剧频道,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4c3b3b&tk=822270345d4c
 深圳电视剧频道,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=80169d&tk=822270345d4c
 深圳都市频道,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8b12ba&tk=822270345d4c
@@ -997,7 +991,7 @@ PPTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=98cad6&tk=822270345d4c
 惠州二台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=848dfc&tk=822270345d4c
 EBU,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=60f11a&tk=822270345d4c
 
-🛰️咪咕频道，#类型#
+🛰️咪咕频道,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
@@ -1028,7 +1022,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 西藏卫视,http://goo.bkpcp.top/mg/xzws
-🛰️央视IPTV，#类型#
+🛰️央视IPTV,#genre#
 CCTV1,http://123.53.30.200:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安阳安阳县电信
 CCTV2,http://123.53.30.200:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$安阳安阳县电信
 CCTV3,http://123.53.30.200:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$安阳安阳县电信
@@ -1296,17 +1290,17 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 TVB PLUS,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY 电视,https://cdn.163189.xyz/live/hoy/stream.m3u8
 
 凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
 凤凰中文,http://ttkx.cc:1380/公开源/fh.php?id=fhzw
 凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
-凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/qq49169550-fh.flv
 凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 凤凰香港,http://ttkx.cc:1380/公开源/fh.php?id=fhhk
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视台,https://epg.pw/stream/871627cefa0727603ae38287f349e796402982c186ea32bea812ef9d764c5923.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
