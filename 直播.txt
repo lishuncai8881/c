@@ -155,7 +155,7 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 山东省卫视,http://goo.bkpcp.top/mg/sdws
 宁夏回族自治区卫视,http://goo.bkpcp.top/mg/nxws
 
-🖥三网央视,#genre#
+🇨🇳三网央视,#genre#
 CCTV1,http://144.0.18.28:8018/hls/1/index.m3u8
 CCTV2,http://144.0.18.28:8018/hls/2/index.m3u8
 CCTV3,http://144.0.18.28:8018/hls/3/index.m3u8
@@ -324,7 +324,7 @@ CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
  
  
 
-🖥央视全网通,#genre#
+🇨🇳央视全网通,#genre#
 CCTV1,http://ycsj.aguihome.com:4022/rtp/233.50.201.118:5140
 CCTV2,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
 CCTV3,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
@@ -346,7 +346,7 @@ CCTV17,http://ycsj.aguihome.com:4022/rtp/233.50.200.113:5140
 CCTV1,http://www.lizhinas.top:1009/udp/239.252.219.10:5140
 
 
-🖥咪咕央视,#genre#
+🇨🇳咪咕央视,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
@@ -365,8 +365,84 @@ CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
-
-
+🇨🇳山东移动,#genre#
+CCTV-1综合高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2经济高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3综艺高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4国际高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5体育高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+体育赛事,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6电影高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7军事高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8电视剧高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9记录高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10科教高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11戏曲高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12社会与法高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13新闻高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14少儿高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15音乐高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16奥林匹克高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17农业高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+QTV-1高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+胶州新闻高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+胶州生活高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+山东有线导视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+QTV-2高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+QTV-3高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+QTV-4高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+QTV-5高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+QTV-6高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云剧场,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+经典剧场高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+青岛电视购物高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+聚鲨环球精选,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+山东教育卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+山东新闻高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+山东文旅高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+山东生活高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+山东农科高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+山东少儿高清,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://112.6.244.211:9901/home/storager/d49e207a-2fcf-4526-8941-e32924858a65/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 中超粤评,#genre#
@@ -6993,12 +7069,12 @@ Baby TV USA,p3p://108.181.32.169:58234/645fa0cf000dc95ccee45512712a51fd
 Cartoon Network USA,p3p://108.181.32.169:58234/645fbdca000b25b2cf5588e126f826a4
 Bloomberg TV FHD USA,p3p://108.181.32.169:58234/645fa7390000e0fecefd5fdc5a4226a4
 Astro 小太阳 Xiaotaiyang,p3p://108.181.32.169:58234/64124cfa00001c82a0d6a40858217ea4
-YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-小猪佩奇 24/7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-Talking Tom Cat 24/7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-catroon 24/7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-Dave and Ava 24/7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-car catroon 24/7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+YOYO TV,https://raw.bgithub.xyz/ChiSheng9/iptv/master/TV63.m3u8
+小猪佩奇 24/7,https://raw.bgithub.xyz/ChiSheng9/iptv/master/TV64.m3u8
+Talking Tom Cat 24/7,https://raw.bgithub.xyz/ChiSheng9/iptv/master/TV65.m3u8
+catroon 24/7,https://raw.bgithub.xyz/ChiSheng9/iptv/master/TV66.m3u8
+Dave and Ava 24/7,https://raw.bgithub.xyz/ChiSheng9/iptv/master/TV67.m3u8
+car catroon 24/7,https://raw.bgithub.xyz/ChiSheng9/iptv/master/TV68.m3u8
 知识频陆,#genre#
 国家地理高画质野生,p3p://108.181.32.169:58234/642523f2000e0f35ea6deeb16ff816c9
 历史频道2,p3p://108.181.32.169:58234/642521e0000042a6ea65d4db3e9d23f9
