@@ -234,6 +234,26 @@ CN卡通[1280x720],http://108.181.20.197/livehttpplay?channel_id=20048
  
 
 ❤️央视全网通,#genre#
+CCTV1,http://ycsj.aguihome.com:4022/rtp/233.50.201.118:5140
+CCTV2,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
+CCTV3,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
+CCTV4,http://ycsj.aguihome.com:4022/rtp/233.50.200.101:5140
+CCTV5,http://ycsj.aguihome.com:4022/rtp/233.50.201.197:5140
+CCTV5+,http://ycsj.aguihome.com:4022/rtp/233.50.201.220:5140
+CCTV6,http://ycsj.aguihome.com:4022/rtp/233.50.201.198:5140
+CCTV7,http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140
+CCTV8,http://ycsj.aguihome.com:4022/rtp/233.50.201.199:5140
+CCTV9,http://ycsj.aguihome.com:4022/rtp/233.50.201.121:5140
+CCTV10,http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140
+CCTV11,http://ycsj.aguihome.com:4022/rtp/233.50.200.132:5140
+CCTV12,http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140
+CCTV13,http://ycsj.aguihome.com:4022/rtp/233.50.201.246:5140
+CCTV14,http://ycsj.aguihome.com:4022/rtp/233.50.201.124:5140
+CCTV15,http://ycsj.aguihome.com:4022/rtp/233.50.200.133:5140
+CCTV16,http://ycsj.aguihome.com:4022/rtp/233.50.200.112:5140
+CCTV17,http://ycsj.aguihome.com:4022/rtp/233.50.200.113:5140
+CCTV1,http://www.lizhinas.top:1009/udp/239.252.219.10:5140
+
 CCTV1综合,http://www.lizhinas.top:1009/rtp/239.252.219.200:5140
 CCTV2财经,http://www.lizhinas.top:1009/rtp/239.252.220.183:5140
 CCTV3综艺,http://www.lizhinas.top:1009/rtp/239.252.219.252:5140
@@ -319,25 +339,7 @@ CGTN-纪录,http://www.lizhinas.top:1009/rtp/239.252.219.195:5140
 金鹰纪实,http://www.lizhinas.top:1009/rtp/239.252.220.155:5140
 
 
-CCTV1,http://ycsj.aguihome.com:4022/rtp/233.50.201.118:5140
-CCTV2,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
-CCTV3,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
-CCTV4,http://ycsj.aguihome.com:4022/rtp/233.50.200.101:5140
-CCTV5,http://ycsj.aguihome.com:4022/rtp/233.50.201.197:5140
-CCTV5+,http://ycsj.aguihome.com:4022/rtp/233.50.201.220:5140
-CCTV6,http://ycsj.aguihome.com:4022/rtp/233.50.201.198:5140
-CCTV7,http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140
-CCTV8,http://ycsj.aguihome.com:4022/rtp/233.50.201.199:5140
-CCTV9,http://ycsj.aguihome.com:4022/rtp/233.50.201.121:5140
-CCTV10,http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140
-CCTV11,http://ycsj.aguihome.com:4022/rtp/233.50.200.132:5140
-CCTV12,http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140
-CCTV13,http://ycsj.aguihome.com:4022/rtp/233.50.201.246:5140
-CCTV14,http://ycsj.aguihome.com:4022/rtp/233.50.201.124:5140
-CCTV15,http://ycsj.aguihome.com:4022/rtp/233.50.200.133:5140
-CCTV16,http://ycsj.aguihome.com:4022/rtp/233.50.200.112:5140
-CCTV17,http://ycsj.aguihome.com:4022/rtp/233.50.200.113:5140
-CCTV1,http://www.lizhinas.top:1009/udp/239.252.219.10:5140
+
 
 
 ❤️咪咕央视,#genre#
