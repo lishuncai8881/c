@@ -1,6 +1,78 @@
 
 // JSON 解析错误：JSON语法结构存在错误，无法解析，以下为您输出接口原文。
-💥雨虹💥,#genre#
+💥雨虹K歌💥,#genre#
+
+
+蒙古人(腾格尔),http://em.21dtv.com/songs/60029422.mkv
+我心中的太阳(赵本山),http://em.21dtv.com/songs/60046468.mkv
+爱情骗子我问你,http://em.21dtv.com/songs/60008179.mkv
+美酒加咖啡(邓丽君),http://em.21dtv.com/songs/60029130.mkv
+酒醉的探戈(刘颖),http://em.21dtv.com/songs/60089684.mkv
+酒醉的探戈(邓丽君),http://em.21dtv.com/songs/60024481.mkv
+下辈子不醉女人(陈瑞),http://em.21dtv.com/songs/60048247.mkv
+父亲(崔京浩),http://em.21dtv.com/songs/60017718.mkv
+父亲(金学峰),http://em.21dtv.com/songs/60017720.mkv
+父亲(刘和刚),http://em.21dtv.com/songs/60017722.mkv
+新铁窗泪(刘尊),http://em.21dtv.com/songs/60050958.mkv
+突然的自我(伍佰),http://em.21dtv.com/songs/60042927.mkv
+人说山西好风光(阎维文),http://em.21dtv.com/songs/60036466.mkv
+北国之春(邓丽君),http://em.21dtv.com/songs/60010174.mkv
+北国之春(余天),http://em.21dtv.com/songs/60010175.mkv
+心雨,http://em.21dtv.com/songs/60050684.mkv
+涛声依旧(毛宁),http://em.21dtv.com/songs/60041528.mkv
+圆梦(刘老根片尾曲),http://em.21dtv.com/songs/60056035.mkv
+谁不说咱家乡好(红日插曲),http://em.21dtv.com/songs/60039950.mkv
+长相依(卓依婷),http://em.21dtv.com/songs/60057610.mkv
+成功靠自己(卓依婷),http://em.21dtv.com/songs/60012553.mkv
+迟来的爱,http://em.21dtv.com/songs/60012783.mkv
+迟来的爱(现场),http://em.21dtv.com/songs/60012784.mkv
+迟来的爱DJ(刘晓超),http://em.21dtv.com/songs/100003743.mkv
+十跪母重恩,http://em.21dtv.com/songs/60038965.mkv
+等你等了那么久(祁隆),http://em.21dtv.com/songs/60065934.mkv
+等你等了那么久(晓依),http://em.21dtv.com/songs/60082828.mkv
+等你等了那么久(男女对唱),http://em.21dtv.com/songs/60068220.mkv
+老婆老婆我爱你(火风),http://em.21dtv.com/songs/60026379.mkv
+长个好人嫁了吧,http://em.21dtv.com/songs/60057676.mkv
+嫂子颂(李娜),http://em.21dtv.com/songs/60037406.mkv
+真的好想你,http://em.21dtv.com/songs/60058098.mkv
+初恋情人,http://em.21dtv.com/songs/60013023.mkv
+好人一生平安(李娜),http://em.21dtv.com/songs/60020147.mkv
+客尔娜,http://em.21dtv.com/songs/60025391.mkv
+站台,http://em.21dtv.com/songs/60057508.mkv
+少年壮志不言愁,http://em.21dtv.com/songs/60038158.mkv
+送别(怒潮插曲),http://em.21dtv.com/songs/60040732.mkv
+昨夜星辰,http://em.21dtv.com/songs/60060625.mkv
+遇上你是我的缘,http://em.21dtv.com/songs/60055864.mkv
+遇上你是我的缘(龚玥),http://em.21dtv.com/songs/60079359.mkv
+缘,http://em.21dtv.com/songs/60056052.mkv
+缘分惹的祸(安东阳),http://em.21dtv.com/songs/60061858.mkv
+缘分五月(五月),http://em.21dtv.com/songs/60063108.mkv
+错过了缘分错过你,http://em.21dtv.com/songs/60075020.mkv
+千年等一回(高胜美),http://em.21dtv.com/songs/60034119.mkv
+久违的哥们(余天),http://em.21dtv.com/songs/60024379.mkv
+天在下雨我在想你(祁隆),http://em.21dtv.com/songs/60131704.mkv
+天在下雨我在想你(任妙音),http://em.21dtv.com/songs/60133355.mkv
+军中绿花(龚玥),http://em.21dtv.com/songs/60024920.mkv
+军中绿花(小曾),http://em.21dtv.com/songs/60024921.mkv
+想着你亲爱的(祁隆),http://em.21dtv.com/songs/60084203.mkv
+再也不能这样活,http://em.21dtv.com/songs/60057001.mkv
+闯码头(大哲),http://em.21dtv.com/songs/60013202.mkv
+为爱流下伤心泪(暴林),http://em.21dtv.com/songs/60129186.mkv
+为爱流下伤心泪DJ(暴林),http://em.21dtv.com/songs/60176047.mkv
+为爱流下伤心泪(乔玲儿),http://em.21dtv.com/songs/60155288.mkv
+爱情这杯酒谁喝都得醉,http://em.21dtv.com/songs/60061002.mkv
+我是一条小河,http://em.21dtv.com/songs/60078345.mkv
+多和爹娘说说话,http://em.21dtv.com/songs/100000040.mkv
+妈妈的吻(卓依婷),http://em.21dtv.com/songs/60028239.mkv
+梅花泪,http://em.21dtv.com/songs/60083353.mkv
+梅花泪(男女对唱),http://em.21dtv.com/songs/60096308.mkv
+梅花泪(文希),http://em.21dtv.com/songs/60101357.mkv
+爱情醉醉醉(郭力),http://em.21dtv.com/songs/60181023.mkv
+拉手手亲口口,http://em.21dtv.com/songs/60143969.mkv
+拉手手亲口口(男女对唱),http://em.21dtv.com/songs/62058913.mkv
+我的好兄弟,http://em.21dtv.com/songs/60196629.mkv
+我的好兄弟1,http://em.21dtv.com/songs/62057173.mkv
+山谷里的思念(谢军),http://em.21dtv.com/songs/60123175.mkv
 
 辜负你的情,https://git.acwing.com/lsc123/l/-/raw/main/辜负你的情.mkv
 相思难剪,https://git.acwing.com/lsc123/l/-/raw/main/相思难剪.mkv
