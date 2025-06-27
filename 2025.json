@@ -19,7 +19,7 @@
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/js/drpy.js"
     },
 
-{"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/lishuncai8881/c/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar"},
+{"key": "03影院https://www.03yy.live","name": "💥03影院💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/lishuncai8881/c/json/03%E5%BD%B1%E9%99%A2.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lishuncai8881/c/jar/xyqxbpq.jar"},
 { "key": "热播影视", "name": "🤖热播｜影视", "type": 3,"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.rbotv.cn" } },
 { "key": "天天影视", "name": "🤖天天｜影视", "type": 3,"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://tt.ysdqjs.cn" } },
 { "key": "浪酷影视", "name": "🤖浪酷｜影视", "type": 3,"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar", "api": "csp_AppRJ", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": { "url": "http://v.lkuys.cn" } },
@@ -775,7 +775,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
- {"key":"BT4K影院","name":"👑BT4K影院","type":3,"searchable": 1,"changeable": 1,"quickSearch": 0,"api":"csp_XBPQ","ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"专属+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"},"jar":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar"},   
+ {"key":"BT4K影院","name":"👑BT4K影院","type":3,"searchable": 1,"changeable": 1,"quickSearch": 0,"api":"csp_XBPQ","ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"专属+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar"},   
 
        {
             "key":"360",
@@ -1061,7 +1061,7 @@
             "name": "🏆花影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://py.nxog.eu.org/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
+            "jar": "https://gh.llkk.cc/https://github.com/lishuncai8881/c/blob/jar/xbpq.jar",
             "ext": {
                 "数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
                 "图片": "data-original=\"&&\"",
@@ -1205,7 +1205,7 @@
             "name": "🏆花心小妞",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1238,8 +1238,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/h/777影院.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
+            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/h/777影院.json",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
         },
    
        
@@ -1269,7 +1269,7 @@
                 "分类标题": ">&&</a>",
                 "分类ID": "/t/&&/"
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"
         },
       
 
@@ -1280,7 +1280,7 @@
             "name": "🏆沙咖影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1305,7 +1305,7 @@
             "name": "🏆努可影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -1329,7 +1329,7 @@
             "name": "🏆天美之爱",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
       
             "ext": {"请求头": "User-Agent$PC_UA",
                 "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
@@ -1349,7 +1349,7 @@
             "name": "🏆色最色",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
             "ext": {"请求头": "User-Agent$PC_UA",
                 "主页url": "https://xn--zovv42dba.com/",
                 "直接播放": "1",
@@ -1364,7 +1364,7 @@
             "name": "🏆爱豆传媒",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
+            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/最新.jar",
             "ext": {
                 "主页url": "https://rourou.co/",
                 "请求头": "User-Agent$PC_UA",
