@@ -1,13 +1,9 @@
 {
 "urls": [
 {"url": "clan://localhost/TVBox/顺财.txt","name":"🌐顺财精简本地🌐"},
-{"url": "clan://localhost/TVBox/lib/顺财.txt","name":"🌐顺财总线路本地🌐"},
-{"url": "clan://localhost/TVBox/ss/ss.json","name":"🔞福利线路本地"},
 {"name":"🌪南风","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 {"name":"🌨挺好丨高天流云","url":"https://gh.llkk.cc/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 {"name":"💕财凯速在线","url":"https://d.kstore.dev/download/6600/财.json"},
-{"name":"🔞dlee2008","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/dlee2008/qist/master/9918.json"},
-{"name":"🔞99188","url":"https://gh.llkk.cc/https://raw.githubusercontent.com/dlee2008/qist/master/99188.json"},
 {"name":"💕饭太硬在线","url":"http://饭太硬.com/tv"},
 {"name":"📛挺好分享","url":"http://ztha.top/TVBox/thdjk.json"},
 {"name":"🧶挺好[JS]","url":"http://ztha.top/catjs/JS/js.json"},
@@ -25,7 +21,7 @@
 {"url":"https://raw.liucn.cc/box/m.json","name":"老刘备"},
 {"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json","name":"节奏熊猫"},
 {"url":"https://yydf.540734621.xyz/QQ/yydf2024.json","name":"业余打发"},
-{"url":"http://ttkx.live:55/天天开心","name":"天天开心"},{"url":"https://s2.pub/api","name":"应用多多"},
+{"url":"https://s2.pub/api","name":"应用多多"},
 {"url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css","name": "春盈天下"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
 {"url": "https://szyyds.cn/tv/x.json","name": "小马"},
